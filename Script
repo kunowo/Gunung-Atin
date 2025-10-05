@@ -179,7 +179,7 @@ local route = {
 	{pos = Vector3.new(813.24, 2141.25, 3901.59), wait = 10},    
 }    
     
-local resetPos = Vector3.new(316.05, 603.39, -907.08)    
+local resetPos = Vector3.new(54.32, -23.50, -377.40)    
 local looping, paused, count, currentIndex, remainingTime = false, false, 0, 1, 0    
     
 local function setStatusText(txt, color)    
