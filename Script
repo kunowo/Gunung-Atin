@@ -175,7 +175,7 @@ Instance.new("UICorner", stopBtn).CornerRadius = UDim.new(0,8)
 -- LOGIC    
 ------------------------------------------------    
 local route = {    
-	{pos = Vector3.new(625.49, 1799.61, 3432.60), wait = 15},    
+	{pos = Vector3.new(625.49, 1799.61, 3432.60), wait = 25},    
 	{pos = Vector3.new(813.24, 2141.25, 3901.59), wait = 10},    
 }    
     
